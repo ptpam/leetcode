@@ -5,7 +5,7 @@
 Welcome to the LeetCode Solution Repository, a comprehensive resource for coders and enthusiasts looking to enhance their problem-solving skills through the challenges presented by LeetCode. 🧩 This repository is designed to be a collaborative platform where individuals can learn, share, and grow together in the realm of coding. 
 
 ### Repository Structure 🏗️
-- ***Categorized Problems*** 📚: Problems are neatly categorized for easy navigation. Each category has a dedicated wiki page, providing systematic access to a variety of challenges.
+- ***Categorized Problems*** 📚: Problems are neatly categorized for easy navigation. Each category has a dedicated [wiki page](https://github.com/ptpam/leetcode/wiki), providing systematic access to a variety of challenges.
 - ***Solutions as Gists*** 💡: Solutions are shared as gists, facilitating an interactive and engaging way to discuss and dissect different approaches to problem-solving.
 - ***Collaboration and Discussion*** 🤝: The repository encourages discussion and collaboration, making it an ideal space for sharing insights, asking questions, and offering improvements to existing solutions.
 
